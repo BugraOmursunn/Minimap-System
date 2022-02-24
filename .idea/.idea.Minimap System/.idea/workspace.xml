@@ -3,6 +3,196 @@
   <component name="ChangeListManager">
     <list default="true" id="765018c0-c3fc-46d7-99f8-953486defb36" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Minimap System/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Minimap System/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/FreeUI.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/FreeUI.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Main.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Main.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Set.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Set.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Compass Bar Frame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Compass Bar Frame.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Compass Bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Compass Bar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Enemy Marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Enemy Marker.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Minimap Border Square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Minimap Border Square.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Minimap Border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Minimap Border.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Minimap Square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Minimap Square.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Minimap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Minimap.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Player Marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Player Marker.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Zoom In.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Zoom In.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Zoom Out.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Sprites/Zoom Out.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Stage.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/Stage.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Back.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Back/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Back/Background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Back/Foldingpaper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Back/Foldingpaper.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Back/FoldingpaperShadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Back/FoldingpaperShadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Back/Lefrupside.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Back/Lefrupside.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Back/RIghtdownside.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Back/RIghtdownside.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Back/Rightupside.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Back/Rightupside.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Botton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Botton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Coin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Coin.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Cristal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Cristal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Deck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Deck.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Deckbotton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Deckbotton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Decoration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Decoration.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/EXP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/EXP.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Gamebotton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Gamebotton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Gamestart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Gamestart.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Guild.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Guild.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Guildbotton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Guildbotton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Incircle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Incircle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Item.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Item.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Itembotton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Itembotton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/LV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/LV.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Nickname.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Nickname.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Outcircle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Outcircle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Preferences.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Preferences.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Profile.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Quantity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Quantity.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Quest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Quest.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Questbotton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Questbotton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Rightup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Rightup.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Shop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Shop.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Shopbotton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Main/Shopbotton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Account.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Back.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Black.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Close.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Contact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Contact.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Credit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Credit.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Decive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Decive.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Enter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Enter.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Language.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Language.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Line1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Line1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Line2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Line2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Logout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Logout.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Namebotton01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Namebotton01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Namebotton02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Namebotton02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Resolution.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Resolution.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Secession.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Secession.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Terms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Terms.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Username.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Username.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Volume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Set/Volume.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Back.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Back/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Back/Background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Back/Foldingpaper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Back/Foldingpaper.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Back/FoldingpaperShadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Back/FoldingpaperShadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Back/Lefrupside.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Back/Lefrupside.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Back/RIghtdownside.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Back/RIghtdownside.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Back/Rightupside.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Back/Rightupside.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Backbotton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Backbotton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Card.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Cardline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Cardline.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Cristalblue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Cristalblue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Cristalorange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Cristalorange.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Cristalred.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Cristalred.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Gamebotton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Gamebotton.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Gameplay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Gameplay.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Stage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Stage.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Stageexplanation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Stageexplanation.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Stageexplanation__.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Stageexplanation__.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Stagename.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Stage/Stagename.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Start.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Start/Touchtoscreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Freeui/ZOSMA/Start/Touchtoscreen.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Minimap/Scripts/CameraController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Minimap/Scripts/CameraController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MinimapData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MinimapData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Playground.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Playground.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnumHolder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnumHolder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MinimapData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MinimapData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MinimapIcon.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MinimapIcon.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MinimapManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MinimapManager.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,11 +201,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MinimapIcon.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnumHolder.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/NewBehaviourScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="25EJAAofvKsm6YHE3a4h4PcPF7j" />
   <component name="ProjectViewState">
@@ -63,6 +248,8 @@
       <updated>1645086171704</updated>
       <workItem from="1645086192442" duration="4122000" />
       <workItem from="1645294255408" duration="470000" />
+      <workItem from="1645442137692" duration="1525000" />
+      <workItem from="1645700749496" duration="796000" />
     </task>
     <servers />
   </component>
