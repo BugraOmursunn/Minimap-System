@@ -20,6 +20,7 @@ public class MinimapIcon : MonoBehaviour
 		m_MinimapIcon = new GameObject();
 		m_MinimapIcon.transform.position = this.transform.position + minimapData.iconOffset;
 		m_MinimapIcon.transform.parent = this.transform;
+		m_MinimapIcon.transform.name= "MinimapIcon";
 		m_MinimapIcon.transform.tag = "MinimapIcon";
 		m_MinimapIcon.transform.localEulerAngles = new Vector3(90f, 0f, 0f);
 
